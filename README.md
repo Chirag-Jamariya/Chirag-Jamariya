@@ -2,6 +2,9 @@
 - I am a colleage first year student
 - workacholic guy
 - socially interactive
+- passionate about challenges
+- happy to learn new things
+- good at implementing new ideas
 - 👀 I’m interested in python...
 - 🌱 I’m currently learning python ...
 - 💞️ I’m looking to collaborate on new projects ...
