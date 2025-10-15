@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chirag Jamariya
+#  Hi, I’m Chirag Jamariya
 
 🎓 **Third-year B.Tech student** at *Vellore Institute of Technology*  
 💡 Majoring in **Electronics and Computer Science Engineering**  
@@ -7,16 +7,15 @@
 
 ## 💻 About Me
 
-- 🚀 **Full-Stack & Backend Developer** passionate about creating scalable and efficient web applications  
-- 🧠 **Backend-focused**, with expertise in **API design, server-side logic, and database management**  
-- ⚙️ Love building seamless integrations between **frontend and backend systems**  
-- 🌱 Currently exploring **TypeScript**, **PostgreSQL**, and **high-performance backend architectures**  
-- 🤝 Open to collaborating on **Next.js, Astro, or API-based projects**  
-- ⚡ Workaholic, socially active, and always up for challenges  
+-  **Full-Stack & Backend Developer** passionate about creating scalable and efficient web applications   
+-  Love building seamless integrations between **frontend and backend systems**  
+-  Currently exploring **TypeScript**, **PostgreSQL**, and **high-performance backend architectures**  
+-  Open to collaborating on **Next.js, Astro, or API-based projects**  
+-  Workaholic, socially active, and always up for challenges  
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages:**  
 `JavaScript` • `TypeScript` • `Python` • `Java` • `C/C++`
@@ -37,13 +36,13 @@
 
 ## 💼 Experience
 
-### 🧩 **Full-Stack Developer Intern — [V-NEST](https://vnest.org/)**  
+###  **Full-Stack Developer Intern — [V-NEST](https://vnest.org/)**  
 *Apr 2025 – Present*  
 - Developed and deployed a **Next.js landing page** with integrated backend support using **PostgreSQL**  
 - Built a **React dashboard** visualizing company metrics with dynamic data fetching  
 - Improved backend query efficiency and optimized performance by **40%**
 
-### ⚙️ **Software Developer Intern — [Adxpert](https://adxpert.ai/)**  
+###  **Software Developer Intern — [Adxpert](https://adxpert.ai/)**  
 *Jun 2025 – Jul 2025*  
 - Built **15+ reusable UI components** using **Next.js** & **Tailwind CSS**  
 - Integrated **REST APIs** across 8+ sections, enhancing data rendering and content updates  
