@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Chirag Jamariya
 
 🎓 **Third-year B.Tech student** at *Vellore Institute of Technology*  
-💡 Majoring in **Electronics and Computer Science Engineering **  
+💡 Majoring in **Electronics and Computer Science Engineering**  
 
 ---
 
